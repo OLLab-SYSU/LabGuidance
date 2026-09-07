@@ -1,7 +1,7 @@
 # Research Guidelines
 
 ## CCF Conference DDL：
-[GitHub](https://github.com/ccfddl/ccf-deadlines)
+https://github.com/ccfddl/ccf-deadlines
 
 ## Paper Rebuttal Tips：
 For AI/LLM Conference paper: https://github.com/MLNLP-World/Paper-Rebuttal-Tips
