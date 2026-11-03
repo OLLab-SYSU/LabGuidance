@@ -3,6 +3,9 @@
 ## CCF Conference DDL：
 https://github.com/ccfddl/ccf-deadlines
 
+## Paper Writing Tips：
+- 写前必看, 终稿必查, 百家之言和论文写作Skill：https://github.com/MLNLP-World/Paper-Writing-Tips
+
 ## Paper Rebuttal Tips：
 For AI/LLM Conference paper: https://github.com/MLNLP-World/Paper-Rebuttal-Tips
 
